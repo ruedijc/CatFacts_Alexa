@@ -1,11 +1,8 @@
 #Sample AWS Lambda function for Alexa
 This is my take on a simple [AWS Lambda]  function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK. This is based on Amazon's ReindeerGames example. More on Amazon's lambda functions here - http://aws.amazon.com/lambda
 
-## Concepts
-This sample skill is a basic template that demonstrates how to write a 'Trivia quiz' skill.
-
 ## Setup
-To run this sample skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
+To run this  skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
 ### AWS Lambda Setup
 1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
